@@ -1,15 +1,6 @@
 # contr_np
 Code for paper "Contrastive Neural Processes for Time Series"
 
-
-
-
-!!! TODO: 
-- Clean dependencies for np
- - readme + add fancy images
- 
-
-
 This folder includes the code for Contrastive Neural Processes and Baselines.
 Code has been modified accordingly to the needs of the project. Original sources are cited here:
 
