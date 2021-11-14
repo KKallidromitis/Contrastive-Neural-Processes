@@ -13,21 +13,14 @@ Folders:
 
 
 
-In folder baselines please find implementations for Tloss [1], CPC [2], TNC [2] and SimCLR [3].
-Folders: npf, utils are for the implementation of Neural Processes [4].
+In folder baselines please find implementations for Tloss [1](https://github.com/White-Link/UnsupervisedScalableRepresentationLearningTimeSeries), CPC [2](https://openreview.net/forum?id=8qDwejCuCN), TNC [2](https://openreview.net/forum?id=8qDwejCuCN) and SimCLR [3](https://github.com/Spijkervet/SimCLR).
+Folders: npf, utils are for the implementation of Neural Processes [4](https://github.com/YannDubs/Neural-Process-Family).
 Main Implementation of contrastive convolutional cnp: Contrastive-ConvCNP-SSL.ipynb
 Implementation of Self supervised convolutional cnp: ConvCNP-SSL.ipynb
 Implementation of Self supervised cnp: CNP-SSL.ipynb
 
 
-[1](https://github.com/White-Link/UnsupervisedScalableRepresentationLearningTimeSeries)
-[2](https://openreview.net/forum?id=8qDwejCuCN)
-[3](https://github.com/Spijkervet/SimCLR)
-[4](https://github.com/YannDubs/Neural-Process-Family)
-
-
 ### Reference
-
 
 
 [[ACML2021]](http://www.acml-conf.org/2021/conference/accepted-papers/266/) [[arXiv]](https://arxiv.org/abs/2110.13623)
