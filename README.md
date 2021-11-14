@@ -33,11 +33,12 @@ Implementation of Self supervised cnp: CNP-SSL.ipynb
 [ContrNP paper]():
 
 ```
-@InProceedings{kallidromitis21,
-  title = {Contrastive Neural Processes for Self-Supervised Learning},
-  author = {Kallidromitis, Konstantinos and Gudovskiy, Denis and Kazuki, Kozuka and Iku, Ohama and Rigazio, Luca},
-  pages = {},
-  crossref = {acml21},
-  year={2020}
+@misc{kallidromitis2021contrastive,
+      title={Contrastive Neural Processes for Self-Supervised Learning}, 
+      author={Konstantinos Kallidromitis and Denis Gudovskiy and Kazuki Kozuka and Ohama Iku and Luca Rigazio},
+      year={2021},
+      eprint={2110.13623},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
 }
 ```
