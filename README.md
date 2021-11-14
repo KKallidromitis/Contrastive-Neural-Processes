@@ -20,10 +20,10 @@ Implementation of Self supervised convolutional cnp: ConvCNP-SSL.ipynb
 Implementation of Self supervised cnp: CNP-SSL.ipynb
 
 
-[1]https://github.com/White-Link/UnsupervisedScalableRepresentationLearningTimeSeries
-[2]https://openreview.net/forum?id=8qDwejCuCN
-[3]https://github.com/Spijkervet/SimCLR
-[4]https://github.com/YannDubs/Neural-Process-Family
+[1](https://github.com/White-Link/UnsupervisedScalableRepresentationLearningTimeSeries)
+[2](https://openreview.net/forum?id=8qDwejCuCN)
+[3](https://github.com/Spijkervet/SimCLR)
+[4](https://github.com/YannDubs/Neural-Process-Family)
 
 
 ### Reference
