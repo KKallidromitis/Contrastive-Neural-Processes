@@ -20,7 +20,7 @@ Implementation of Self supervised convolutional cnp: ConvCNP-SSL.ipynb
 Implementation of Self supervised cnp: CNP-SSL.ipynb
 
 
-### Reference
+### Citing this work
 
 
 [[ACML2021]](http://www.acml-conf.org/2021/conference/accepted-papers/266/) [[arXiv]](https://arxiv.org/abs/2110.13623)
