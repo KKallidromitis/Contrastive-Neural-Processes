@@ -1,4 +1,4 @@
-# contr_np
+# contrnp
 Code for paper "Contrastive Neural Processes for Self-Supervised Learning"
 
 This folder includes the code for Contrastive Neural Processes and Baselines.
