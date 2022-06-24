@@ -1,5 +1,5 @@
 # contr_np
-Code for paper "Contrastive Neural Processes for Time Series"
+Code for paper "Contrastive Neural Processes for Self-Supervised Learning"
 
 This folder includes the code for Contrastive Neural Processes and Baselines.
 Code has been modified accordingly to the needs of the project. Original sources are cited here:
