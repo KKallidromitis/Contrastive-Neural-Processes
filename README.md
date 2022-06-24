@@ -13,7 +13,7 @@ Folders:
 
 
 
-In folder baselines please find implementations for Tloss [[1]](https://github.com/White-Link/UnsupervisedScalableRepresentationLearningTimeSeries), CPC [[2]](https://openreview.net/forum?id=8qDwejCuCN), TNC [[2]](https://openreview.net/forum?id=8qDwejCuCN) and SimCLR [[3]](https://github.com/Spijkervet/SimCLR).
+Baselines includes implementations for Tloss [[1]](https://github.com/White-Link/UnsupervisedScalableRepresentationLearningTimeSeries), CPC [[2]](https://openreview.net/forum?id=8qDwejCuCN), TNC [[2]](https://openreview.net/forum?id=8qDwejCuCN) and SimCLR [[3]](https://github.com/Spijkervet/SimCLR).
 
 Folders: npf, utils are for the implementation of Neural Processes [[4]](https://github.com/YannDubs/Neural-Process-Family).
 - Main Implementation of contrastive convolutional cnp: Contrastive-ConvCNP-SSL.ipynb
