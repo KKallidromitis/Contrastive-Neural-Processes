@@ -23,7 +23,7 @@ Implementation of Self supervised cnp: CNP-SSL.ipynb
 ### Citing this work
 
 
-[[ACML2021]](http://www.acml-conf.org/2021/conference/accepted-papers/266/) [[arXiv]](https://arxiv.org/abs/2110.13623)
+[[arXiv]](https://arxiv.org/abs/2110.13623) [[PMLR]](https://proceedings.mlr.press/v157/kallidromitis21a) [[ACML2021]](http://www.acml-conf.org/2021/conference/accepted-papers/266/) 
 
 ```
 @misc{kallidromitis2021contrastive,
