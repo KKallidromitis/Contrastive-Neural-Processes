@@ -1,5 +1,5 @@
 # Contrastive Neural Processes
-Code for paper "[Contrastive Neural Processes for Self-Supervised Learning](https://arxiv.org/abs/2110.13623)"
+Code for the paper "[Contrastive Neural Processes for Self-Supervised Learning](https://arxiv.org/abs/2110.13623)"
 
 This folder includes the code for Contrastive Neural Processes and Baselines.
 Code has been modified accordingly to the needs of the project. Original sources are cited here:
