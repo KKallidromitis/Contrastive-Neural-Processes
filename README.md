@@ -38,12 +38,12 @@ Folders: npf, utils are for the implementation of Neural Processes [[4]](https:/
       primaryClass={cs.LG}
 }
 ```
-## Requirements
-Full list [here](./requirements.txt)
+## Requirements [[txt]](./requirements.txt)
+
 ```
 python>=3.6.9
 skorch==0.8
 pytorch>=1.3.1
-wfdb
 scikit-image
+wfdb
 ```
