@@ -1,5 +1,31 @@
 # Contrastive Neural Processes
-Code for the paper "[Contrastive Neural Processes for Self-Supervised Learning](https://arxiv.org/abs/2110.13623)"
+PyTorch implementation of "[Contrastive Neural Processes for Self-Supervised Learning](https://arxiv.org/abs/2110.13623)"
+
+## Requirements
+
+```
+python>=3.6.9
+skorch==0.8
+torch
+numpy
+torchvision
+matplotlib
+tqdm
+pandas
+scikit-learn
+joblib
+h5py
+seaborn
+scikit-image
+wfdb
+pickle
+torchinfo
+audiomentations
+torch-audiomentations
+sktime
+```
+
+## Implementation Details
 
 This folder includes the code for Contrastive Neural Processes and Baselines.
 Code has been modified accordingly to the needs of the project. Original sources are cited here:
@@ -21,7 +47,7 @@ Folders: npf, utils are for the implementation of Neural Processes [[4]](https:/
 - Implementation of Self supervised cnp: CNP-SSL.ipynb
 
 
-### Citing this work
+## Citing this work
 
 
 [[arXiv]](https://arxiv.org/abs/2110.13623) [[PMLR]](https://proceedings.mlr.press/v157/kallidromitis21a) [[ACML2021]](http://www.acml-conf.org/2021/conference/accepted-papers/266/) 
