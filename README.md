@@ -1,30 +1,6 @@
 # Contrastive Neural Processes
 PyTorch implementation of "[Contrastive Neural Processes for Self-Supervised Learning](https://arxiv.org/abs/2110.13623)"
 
-## Requirements
-
-```
-python>=3.6.9
-skorch==0.8
-torch
-numpy
-torchvision
-matplotlib
-tqdm
-pandas
-scikit-learn
-joblib
-h5py
-seaborn
-scikit-image
-wfdb
-pickle
-torchinfo
-audiomentations
-torch-audiomentations
-sktime
-```
-
 ## Implementation Details
 
 This folder includes the code for Contrastive Neural Processes and Baselines.
@@ -61,4 +37,27 @@ Folders: npf, utils are for the implementation of Neural Processes [[4]](https:/
       archivePrefix={arXiv},
       primaryClass={cs.LG}
 }
+```
+## Requirements
+
+```
+python>=3.6.9
+skorch==0.8
+torch
+numpy
+torchvision
+matplotlib
+tqdm
+pandas
+scikit-learn
+joblib
+h5py
+seaborn
+scikit-image
+wfdb
+pickle
+torchinfo
+audiomentations
+torch-audiomentations
+sktime
 ```
