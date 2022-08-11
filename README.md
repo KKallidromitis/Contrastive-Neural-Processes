@@ -39,7 +39,7 @@ Folders: npf, utils are for the implementation of Neural Processes [[4]](https:/
 }
 ```
 ## Requirements
-
+Full list [here](./requirements.txt)
 ```
 python>=3.6.9
 skorch==0.8
