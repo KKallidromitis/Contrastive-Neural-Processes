@@ -1,6 +1,10 @@
 # Contrastive Neural Processes
 PyTorch implementation of "[Contrastive Neural Processes for Self-Supervised Learning](https://arxiv.org/abs/2110.13623)"
 
+<p align="center">
+  <img src="./contrnp_fig2.jpg" width="900">
+</p>
+
 ## Implementation Details
 
 This folder includes the code for Contrastive Neural Processes and Baselines.
