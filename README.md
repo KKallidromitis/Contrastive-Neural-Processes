@@ -144,19 +144,19 @@ Folders: npf, utils are for the implementation of Neural Processes [[4]](https:/
             <td>0.89</td>
         </tr>
         <tr>
-            <td>Fully supervised</td>
-            <td>98.4</td>
-            <td>81.6</td>
-            <td>0.43</td>
-            <td>0.83</td>
-            <td>86.3</td>
-            <td>94.8</td>
-            <td>0.47</td>
-            <td>0.77</td>
-            <td>99.9</td>
-            <td>99.9</td>
-            <td>0.49</td>
-            <td>0.80</td>
+            <td><i>Fully supervised</i></td>
+            <td><i>98.4</i></td>
+            <td><i>81.6</i></td>
+            <td><i>0.43</i></td>
+            <td><i>0.83</i></td>
+            <td><i>86.3</i></td>
+            <td><i>94.8</i></td>
+            <td><i>0.47</i></td>
+            <td><i>0.77</i></td>
+            <td><i>99.9</i></td>
+            <td><i>99.9</i></td>
+            <td><i>0.49</i></td>
+            <td><i>0.80</i></td>
         </tr> 
     </tbody>
 </table>
