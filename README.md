@@ -26,7 +26,6 @@ Folders: npf, utils are for the implementation of Neural Processes [[4]](https:/
 - Implementation of Self supervised convolutional cnp: ConvCNP-SSL.ipynb
 - Implementation of Self supervised cnp: CNP-SSL.ipynb
 
-
 ## Citing this work
 
 
@@ -42,6 +41,127 @@ Folders: npf, utils are for the implementation of Neural Processes [[4]](https:/
       primaryClass={cs.LG}
 }
 ```
+## Reproduced Results
+
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th colspan=4>AFDB</th>
+            <th colspan=4>IMS Bearing</th>
+            <th colspan=4>Urban8K</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><b>Method</b></td>
+            <td>Accuracy</td>
+            <td>AUPRC</td>
+            <td>Sil ↑</td>
+            <td>DBI ↓</td>
+            <td>Accuracy</td>
+            <td>AUPRC</td>
+            <td>Sil ↑</td>
+            <td>DBI ↓</td>
+            <td>Accuracy</td>
+            <td>AUPRC</td>
+            <td>Sil ↑</td>
+            <td>DBI ↓</td>
+        </tr>
+        <tr>
+            <td>CPC</td>
+            <td>71.6</td>
+            <td>62.6</td>
+            <td>0.22</td>
+            <td>1.74</td>
+            <td>72.4</td>
+            <td>84.4</td>
+            <td>0.12</td>
+            <td>2.20</td>
+            <td>83.3</td>
+            <td>94.5</td>
+            <td>0.24</td>
+            <td>1.64</td>
+        </tr>
+        <tr>
+            <td>Tloss</td>
+            <td>74.8</td>
+            <td>59.8</td>
+            <td>0.14</td>
+            <td>2.04</td>
+            <td>73.2</td>
+            <td>87.6</td>
+            <td>0.17</td>
+            <td>1.79</td>
+            <td>81.5</td>
+            <td>93.8</td>
+            <td>0.26</td>
+            <td>1.30</td>
+        </tr>
+        <tr>
+            <td>TNC</td>
+            <td>74.5</td>
+            <td>56.3</td>
+            <td>0.24</td>
+            <td>1.44</td>
+            <td>70.3</td>
+            <td>86.3</td>
+            <td>0.31</td>
+            <td>0.94</td>
+            <td>80.7</td>
+            <td>93.9</td>
+            <td>0.36</td>
+            <td><b>0.72</b></td>
+        </tr>
+        <tr>
+            <td>SimCLR</td>
+            <td>82.3</td>
+            <td>71.5</td>
+            <td>0.34</td>
+            <td>1.49</td>
+            <td>41.5</td>
+            <td>70.7</td>
+            <td>0.24</td>
+            <td>1.47</td>
+            <td>82.8</td>
+            <td>94.1</td>
+            <td>0.35</td>
+            <td>1.13</td>
+        </tr>
+        <tr>
+            <td><b>ContrNP (ours)</b></td>
+            <td><b>94.2</b></td>
+            <td><b>89.1</b></td>
+            <td><b>0.36</b></td>
+            <td><b>1.35</b></td>
+            <td><b>73.6</b></td>
+            <td><b>89.3</b></td>
+            <td><b>0.38</b></td>
+            <td><b>0.91</b></td>
+            <td><b>84.2</b></td>
+            <td><b>95.4</b></td>
+            <td><b>0.42</b></td>
+            <td>0.89</td>
+        </tr>
+        <tr>
+            <td>Fully supervised</td>
+            <td>98.4</td>
+            <td>81.6</td>
+            <td>0.43</td>
+            <td>0.83</td>
+            <td>86.3</td>
+            <td>94.8</td>
+            <td>0.47</td>
+            <td>0.77</td>
+            <td>99.9</td>
+            <td>99.9</td>
+            <td>0.49</td>
+            <td>0.80</td>
+        </tr> 
+    </tbody>
+</table>
+
+
 ## Requirements [[txt]](./requirements.txt)
 
 ```
