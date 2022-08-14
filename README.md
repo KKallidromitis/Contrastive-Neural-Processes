@@ -57,16 +57,16 @@ Folders: npf, utils are for the implementation of Neural Processes [[4]](https:/
             <td><b>Method</b></td>
             <td>Accuracy</td>
             <td>AUPRC</td>
-            <td>Sil ↑</td>
-            <td>DBI ↓</td>
+            <td>Sil↑</td>
+            <td>DBI↓</td>
             <td>Accuracy</td>
             <td>AUPRC</td>
-            <td>Sil ↑</td>
-            <td>DBI ↓</td>
+            <td>Sil↑</td>
+            <td>DBI↓</td>
             <td>Accuracy</td>
             <td>AUPRC</td>
-            <td>Sil ↑</td>
-            <td>DBI ↓</td>
+            <td>Sil↑</td>
+            <td>DBI↓</td>
         </tr>
         <tr>
             <td>CPC</td>
