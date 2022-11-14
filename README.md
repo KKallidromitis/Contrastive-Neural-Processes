@@ -1,5 +1,5 @@
 # Contrastive Neural Processes
-PyTorch implementation of "[Contrastive Neural Processes for Self-Supervised Learning](https://arxiv.org/abs/2110.13623)"
+PyTorch implementation of "[Contrastive Neural Processes for Self-Supervised Learning](https://arxiv.org/abs/2110.13623)" accepted as a Long Oral at [ACML2021](http://www.acml-conf.org/2021/conference/accepted-papers/266/) 
 
 <p align="center">
   <img src="./contrnp_fig2.jpg" width="900">
