@@ -35,10 +35,8 @@ Folders: npf, utils are for the implementation of Neural Processes [[4]](https:/
 @misc{kallidromitis2021contrastive,
       title={Contrastive Neural Processes for Self-Supervised Learning}, 
       author={Konstantinos Kallidromitis and Denis Gudovskiy and Kazuki Kozuka and Ohama Iku and Luca Rigazio},
-      year={2021},
-      eprint={2110.13623},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+      journal={arXiv preprint arXiv:2110.13623},
+      year={2021}
 }
 ```
 ## Reproduced Results
